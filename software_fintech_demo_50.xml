@@ -3,706 +3,706 @@
   <channel>
     <title>Software and Fintech Demo Feed</title>
     <link>https://software-demo-platform.com</link>
-    <description>Demo XML feed for software and fintech industry</description>
-    <item>
-      <g:id>SF-1000</g:id>
-      <g:title>AI Customer Analytics Platform 1</g:title>
-      <g:link>https://software-demo-platform.com/products/ai-customer-analytics-platform-1</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>461.33 USD</g:price>
-      <g:brand>Paynetic</g:brand>
-      <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Cloud-native solution optimized for modern finance and operational workflows.]]></g:description>
-      <g:product_type>AI and Analytics</g:product_type>
-      <g:item_group_id>SF-1000</g:item_group_id>
-      <g:gtin>1000000000000</g:gtin>
-      <g:mpn>MPN-1000</g:mpn>
-    </item>
+    <description>Demo XML feed for software and fintech industry with diversified product images</description>
     <item>
       <g:id>SF-1001</g:id>
-      <g:title>Business Intelligence Dashboard 2</g:title>
-      <g:link>https://software-demo-platform.com/products/business-intelligence-dashboard-2</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>731.98 USD</g:price>
-      <g:brand>Auralis</g:brand>
+      <g:title>AI Customer Analytics Platform</g:title>
+      <g:link>https://software-demo-platform.com/products/ai-customer-analytics-platform</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?fintech-dashboard&amp;sig=1</g:image_link>
+      <g:price>499.00 USD</g:price>
+      <g:brand>NovaCore</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Enterprise-grade platform designed for scalable business operations and automation.]]></g:description>
-      <g:product_type>Analytics</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>AI and Analytics</g:product_type>
       <g:item_group_id>SF-1001</g:item_group_id>
       <g:gtin>1000000000001</g:gtin>
-      <g:mpn>MPN-1001</g:mpn>
+      <g:mpn>SF-MPN-1001</g:mpn>
     </item>
     <item>
       <g:id>SF-1002</g:id>
-      <g:title>Fraud Detection API 3</g:title>
-      <g:link>https://software-demo-platform.com/products/fraud-detection-api-3</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>686.94 USD</g:price>
+      <g:title>Subscription Billing Engine</g:title>
+      <g:link>https://software-demo-platform.com/products/subscription-billing-engine</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?saas-platform&amp;sig=2</g:image_link>
+      <g:price>349.00 USD</g:price>
       <g:brand>Fintrix</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Cybersecurity</g:product_type>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
+      <g:product_type>Fintech</g:product_type>
       <g:item_group_id>SF-1002</g:item_group_id>
       <g:gtin>1000000000002</g:gtin>
-      <g:mpn>MPN-1002</g:mpn>
+      <g:mpn>SF-MPN-1002</g:mpn>
     </item>
     <item>
       <g:id>SF-1003</g:id>
-      <g:title>Payroll Automation Suite 4</g:title>
-      <g:link>https://software-demo-platform.com/products/payroll-automation-suite-4</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>698.62 USD</g:price>
+      <g:title>Cloud ERP Connector</g:title>
+      <g:link>https://software-demo-platform.com/products/cloud-erp-connector</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?business-analytics&amp;sig=3</g:image_link>
+      <g:price>249.00 USD</g:price>
       <g:brand>CloudPeak</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Enterprise-grade platform designed for scalable business operations and automation.]]></g:description>
-      <g:product_type>HR Tech</g:product_type>
+      <g:description><![CDATA[Scalable software solution for financial operations, customer data, and business intelligence.]]></g:description>
+      <g:product_type>Enterprise Software</g:product_type>
       <g:item_group_id>SF-1003</g:item_group_id>
       <g:gtin>1000000000003</g:gtin>
-      <g:mpn>MPN-1003</g:mpn>
+      <g:mpn>SF-MPN-1003</g:mpn>
     </item>
     <item>
       <g:id>SF-1004</g:id>
-      <g:title>Expense Management Tool 5</g:title>
-      <g:link>https://software-demo-platform.com/products/expense-management-tool-5</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1644.29 USD</g:price>
-      <g:brand>Paynetic</g:brand>
+      <g:title>Fraud Detection API</g:title>
+      <g:link>https://software-demo-platform.com/products/fraud-detection-api</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?payment-terminal&amp;sig=4</g:image_link>
+      <g:price>799.00 USD</g:price>
+      <g:brand>Auralis</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Enterprise-grade platform designed for scalable business operations and automation.]]></g:description>
-      <g:product_type>Finance Automation</g:product_type>
+      <g:description><![CDATA[API-first platform built for fast implementation, secure integrations, and measurable outcomes.]]></g:description>
+      <g:product_type>Cybersecurity</g:product_type>
       <g:item_group_id>SF-1004</g:item_group_id>
       <g:gtin>1000000000004</g:gtin>
-      <g:mpn>MPN-1004</g:mpn>
+      <g:mpn>SF-MPN-1004</g:mpn>
     </item>
     <item>
       <g:id>SF-1005</g:id>
-      <g:title>Customer Data Platform 6</g:title>
-      <g:link>https://software-demo-platform.com/products/customer-data-platform-6</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>967.87 USD</g:price>
-      <g:brand>Auralis</g:brand>
+      <g:title>Payroll Automation Suite</g:title>
+      <g:link>https://software-demo-platform.com/products/payroll-automation-suite</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?cloud-software&amp;sig=5</g:image_link>
+      <g:price>399.00 USD</g:price>
+      <g:brand>CoreLedger</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>Marketing Technology</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>HR Tech</g:product_type>
       <g:item_group_id>SF-1005</g:item_group_id>
       <g:gtin>1000000000005</g:gtin>
-      <g:mpn>MPN-1005</g:mpn>
+      <g:mpn>SF-MPN-1005</g:mpn>
     </item>
     <item>
       <g:id>SF-1006</g:id>
-      <g:title>Cloud ERP Connector 7</g:title>
-      <g:link>https://software-demo-platform.com/products/cloud-erp-connector-7</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>950.10 USD</g:price>
+      <g:title>Invoice OCR Processor</g:title>
+      <g:link>https://software-demo-platform.com/products/invoice-ocr-processor</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?cybersecurity&amp;sig=6</g:image_link>
+      <g:price>159.00 USD</g:price>
       <g:brand>DataPilot</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Enterprise Software</g:product_type>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
+      <g:product_type>Accounting</g:product_type>
       <g:item_group_id>SF-1006</g:item_group_id>
       <g:gtin>1000000000006</g:gtin>
-      <g:mpn>MPN-1006</g:mpn>
+      <g:mpn>SF-MPN-1006</g:mpn>
     </item>
     <item>
       <g:id>SF-1007</g:id>
-      <g:title>Expense Management Tool 8</g:title>
-      <g:link>https://software-demo-platform.com/products/expense-management-tool-8</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1328.66 USD</g:price>
-      <g:brand>NovaCore</g:brand>
+      <g:title>Customer Data Platform</g:title>
+      <g:link>https://software-demo-platform.com/products/customer-data-platform</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?accounting-software&amp;sig=7</g:image_link>
+      <g:price>699.00 USD</g:price>
+      <g:brand>MetricFlow</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Finance Automation</g:product_type>
+      <g:description><![CDATA[Scalable software solution for financial operations, customer data, and business intelligence.]]></g:description>
+      <g:product_type>Marketing Technology</g:product_type>
       <g:item_group_id>SF-1007</g:item_group_id>
       <g:gtin>1000000000007</g:gtin>
-      <g:mpn>MPN-1007</g:mpn>
+      <g:mpn>SF-MPN-1007</g:mpn>
     </item>
     <item>
       <g:id>SF-1008</g:id>
-      <g:title>Invoice OCR Processor 9</g:title>
-      <g:link>https://software-demo-platform.com/products/invoice-ocr-processor-9</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>143.33 USD</g:price>
-      <g:brand>MetricFlow</g:brand>
+      <g:title>Business Intelligence Dashboard</g:title>
+      <g:link>https://software-demo-platform.com/products/business-intelligence-dashboard</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?data-dashboard&amp;sig=8</g:image_link>
+      <g:price>599.00 USD</g:price>
+      <g:brand>NovaCore</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Cloud-native solution optimized for modern finance and operational workflows.]]></g:description>
-      <g:product_type>Accounting</g:product_type>
+      <g:description><![CDATA[API-first platform built for fast implementation, secure integrations, and measurable outcomes.]]></g:description>
+      <g:product_type>Analytics</g:product_type>
       <g:item_group_id>SF-1008</g:item_group_id>
       <g:gtin>1000000000008</g:gtin>
-      <g:mpn>MPN-1008</g:mpn>
+      <g:mpn>SF-MPN-1008</g:mpn>
     </item>
     <item>
       <g:id>SF-1009</g:id>
-      <g:title>Subscription Billing Engine 10</g:title>
-      <g:link>https://software-demo-platform.com/products/subscription-billing-engine-10</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>837.66 USD</g:price>
-      <g:brand>DataPilot</g:brand>
+      <g:title>Payment Gateway API</g:title>
+      <g:link>https://software-demo-platform.com/products/payment-gateway-api</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?mobile-banking&amp;sig=9</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:brand>Paynetic</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Fintech</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>Payments</g:product_type>
       <g:item_group_id>SF-1009</g:item_group_id>
       <g:gtin>1000000000009</g:gtin>
-      <g:mpn>MPN-1009</g:mpn>
+      <g:mpn>SF-MPN-1009</g:mpn>
     </item>
     <item>
       <g:id>SF-1010</g:id>
-      <g:title>Customer Data Platform 11</g:title>
-      <g:link>https://software-demo-platform.com/products/customer-data-platform-11</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>909.45 USD</g:price>
-      <g:brand>Auralis</g:brand>
+      <g:title>Expense Management Tool</g:title>
+      <g:link>https://software-demo-platform.com/products/expense-management-tool</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?invoice-management&amp;sig=10</g:image_link>
+      <g:price>129.00 USD</g:price>
+      <g:brand>Fintrix</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Enterprise-grade platform designed for scalable business operations and automation.]]></g:description>
-      <g:product_type>Marketing Technology</g:product_type>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
+      <g:product_type>Finance Automation</g:product_type>
       <g:item_group_id>SF-1010</g:item_group_id>
       <g:gtin>1000000000010</g:gtin>
-      <g:mpn>MPN-1010</g:mpn>
+      <g:mpn>SF-MPN-1010</g:mpn>
     </item>
     <item>
       <g:id>SF-1011</g:id>
-      <g:title>Fraud Detection API 12</g:title>
-      <g:link>https://software-demo-platform.com/products/fraud-detection-api-12</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1780.17 USD</g:price>
-      <g:brand>Paynetic</g:brand>
+      <g:title>Revenue Forecasting Module</g:title>
+      <g:link>https://software-demo-platform.com/products/revenue-forecasting-module</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?api-integration&amp;sig=11</g:image_link>
+      <g:price>449.00 USD</g:price>
+      <g:brand>MetricFlow</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Cybersecurity</g:product_type>
+      <g:description><![CDATA[Scalable software solution for financial operations, customer data, and business intelligence.]]></g:description>
+      <g:product_type>Analytics</g:product_type>
       <g:item_group_id>SF-1011</g:item_group_id>
       <g:gtin>1000000000011</g:gtin>
-      <g:mpn>MPN-1011</g:mpn>
+      <g:mpn>SF-MPN-1011</g:mpn>
     </item>
     <item>
       <g:id>SF-1012</g:id>
-      <g:title>Payroll Automation Suite 13</g:title>
-      <g:link>https://software-demo-platform.com/products/payroll-automation-suite-13</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>899.20 USD</g:price>
-      <g:brand>NovaCore</g:brand>
+      <g:title>Open Banking Connector</g:title>
+      <g:link>https://software-demo-platform.com/products/open-banking-connector</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?office-software&amp;sig=12</g:image_link>
+      <g:price>549.00 USD</g:price>
+      <g:brand>Paynetic</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Cloud-native solution optimized for modern finance and operational workflows.]]></g:description>
-      <g:product_type>HR Tech</g:product_type>
+      <g:description><![CDATA[API-first platform built for fast implementation, secure integrations, and measurable outcomes.]]></g:description>
+      <g:product_type>Fintech</g:product_type>
       <g:item_group_id>SF-1012</g:item_group_id>
       <g:gtin>1000000000012</g:gtin>
-      <g:mpn>MPN-1012</g:mpn>
+      <g:mpn>SF-MPN-1012</g:mpn>
     </item>
     <item>
       <g:id>SF-1013</g:id>
-      <g:title>Payroll Automation Suite 14</g:title>
-      <g:link>https://software-demo-platform.com/products/payroll-automation-suite-14</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>298.97 USD</g:price>
-      <g:brand>NovaCore</g:brand>
+      <g:title>KYC Verification Portal</g:title>
+      <g:link>https://software-demo-platform.com/products/kyc-verification-portal</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?digital-wallet&amp;sig=13</g:image_link>
+      <g:price>389.00 USD</g:price>
+      <g:brand>Auralis</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Cloud-native solution optimized for modern finance and operational workflows.]]></g:description>
-      <g:product_type>HR Tech</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>Compliance</g:product_type>
       <g:item_group_id>SF-1013</g:item_group_id>
       <g:gtin>1000000000013</g:gtin>
-      <g:mpn>MPN-1013</g:mpn>
+      <g:mpn>SF-MPN-1013</g:mpn>
     </item>
     <item>
       <g:id>SF-1014</g:id>
-      <g:title>Invoice OCR Processor 15</g:title>
-      <g:link>https://software-demo-platform.com/products/invoice-ocr-processor-15</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1176.69 USD</g:price>
-      <g:brand>MetricFlow</g:brand>
+      <g:title>Digital Wallet SDK</g:title>
+      <g:link>https://software-demo-platform.com/products/digital-wallet-sdk</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?fraud-detection&amp;sig=14</g:image_link>
+      <g:price>899.00 USD</g:price>
+      <g:brand>Paynetic</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>Accounting</g:product_type>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
+      <g:product_type>Payments</g:product_type>
       <g:item_group_id>SF-1014</g:item_group_id>
       <g:gtin>1000000000014</g:gtin>
-      <g:mpn>MPN-1014</g:mpn>
+      <g:mpn>SF-MPN-1014</g:mpn>
     </item>
     <item>
       <g:id>SF-1015</g:id>
-      <g:title>Cloud ERP Connector 16</g:title>
-      <g:link>https://software-demo-platform.com/products/cloud-erp-connector-16</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1718.90 USD</g:price>
+      <g:title>Tax Reporting Automation</g:title>
+      <g:link>https://software-demo-platform.com/products/tax-reporting-automation</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?subscription-billing&amp;sig=15</g:image_link>
+      <g:price>259.00 USD</g:price>
       <g:brand>CoreLedger</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Enterprise-grade platform designed for scalable business operations and automation.]]></g:description>
-      <g:product_type>Enterprise Software</g:product_type>
+      <g:description><![CDATA[Scalable software solution for financial operations, customer data, and business intelligence.]]></g:description>
+      <g:product_type>Accounting</g:product_type>
       <g:item_group_id>SF-1015</g:item_group_id>
       <g:gtin>1000000000015</g:gtin>
-      <g:mpn>MPN-1015</g:mpn>
+      <g:mpn>SF-MPN-1015</g:mpn>
     </item>
     <item>
       <g:id>SF-1016</g:id>
-      <g:title>Cloud ERP Connector 17</g:title>
-      <g:link>https://software-demo-platform.com/products/cloud-erp-connector-17</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1790.48 USD</g:price>
-      <g:brand>Auralis</g:brand>
+      <g:title>Risk Scoring Engine</g:title>
+      <g:link>https://software-demo-platform.com/products/risk-scoring-engine</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?payroll-software&amp;sig=16</g:image_link>
+      <g:price>749.00 USD</g:price>
+      <g:brand>Fintrix</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Enterprise-grade platform designed for scalable business operations and automation.]]></g:description>
-      <g:product_type>Enterprise Software</g:product_type>
+      <g:description><![CDATA[API-first platform built for fast implementation, secure integrations, and measurable outcomes.]]></g:description>
+      <g:product_type>Risk Management</g:product_type>
       <g:item_group_id>SF-1016</g:item_group_id>
       <g:gtin>1000000000016</g:gtin>
-      <g:mpn>MPN-1016</g:mpn>
+      <g:mpn>SF-MPN-1016</g:mpn>
     </item>
     <item>
       <g:id>SF-1017</g:id>
-      <g:title>Business Intelligence Dashboard 18</g:title>
-      <g:link>https://software-demo-platform.com/products/business-intelligence-dashboard-18</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>409.63 USD</g:price>
-      <g:brand>Fintrix</g:brand>
+      <g:title>Cloud CRM for Finance Teams</g:title>
+      <g:link>https://software-demo-platform.com/products/cloud-crm-for-finance-teams</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?financial-reporting&amp;sig=17</g:image_link>
+      <g:price>329.00 USD</g:price>
+      <g:brand>CloudPeak</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>Analytics</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>CRM</g:product_type>
       <g:item_group_id>SF-1017</g:item_group_id>
       <g:gtin>1000000000017</g:gtin>
-      <g:mpn>MPN-1017</g:mpn>
+      <g:mpn>SF-MPN-1017</g:mpn>
     </item>
     <item>
       <g:id>SF-1018</g:id>
-      <g:title>Cloud ERP Connector 19</g:title>
-      <g:link>https://software-demo-platform.com/products/cloud-erp-connector-19</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>517.60 USD</g:price>
-      <g:brand>CoreLedger</g:brand>
+      <g:title>AI Support Assistant</g:title>
+      <g:link>https://software-demo-platform.com/products/ai-support-assistant</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?crm-dashboard&amp;sig=18</g:image_link>
+      <g:price>199.00 USD</g:price>
+      <g:brand>NovaCore</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Enterprise Software</g:product_type>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
+      <g:product_type>Customer Service</g:product_type>
       <g:item_group_id>SF-1018</g:item_group_id>
       <g:gtin>1000000000018</g:gtin>
-      <g:mpn>MPN-1018</g:mpn>
+      <g:mpn>SF-MPN-1018</g:mpn>
     </item>
     <item>
       <g:id>SF-1019</g:id>
-      <g:title>Payroll Automation Suite 20</g:title>
-      <g:link>https://software-demo-platform.com/products/payroll-automation-suite-20</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>806.63 USD</g:price>
-      <g:brand>MetricFlow</g:brand>
+      <g:title>Secure Document Vault</g:title>
+      <g:link>https://software-demo-platform.com/products/secure-document-vault</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?customer-data&amp;sig=19</g:image_link>
+      <g:price>219.00 USD</g:price>
+      <g:brand>Auralis</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Cloud-native solution optimized for modern finance and operational workflows.]]></g:description>
-      <g:product_type>HR Tech</g:product_type>
+      <g:description><![CDATA[Scalable software solution for financial operations, customer data, and business intelligence.]]></g:description>
+      <g:product_type>Cybersecurity</g:product_type>
       <g:item_group_id>SF-1019</g:item_group_id>
       <g:gtin>1000000000019</g:gtin>
-      <g:mpn>MPN-1019</g:mpn>
+      <g:mpn>SF-MPN-1019</g:mpn>
     </item>
     <item>
       <g:id>SF-1020</g:id>
-      <g:title>Payment Gateway API 21</g:title>
-      <g:link>https://software-demo-platform.com/products/payment-gateway-api-21</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1183.08 USD</g:price>
-      <g:brand>Fintrix</g:brand>
+      <g:title>API Monitoring Console</g:title>
+      <g:link>https://software-demo-platform.com/products/api-monitoring-console</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?business-intelligence&amp;sig=20</g:image_link>
+      <g:price>179.00 USD</g:price>
+      <g:brand>DataPilot</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Payments</g:product_type>
+      <g:description><![CDATA[API-first platform built for fast implementation, secure integrations, and measurable outcomes.]]></g:description>
+      <g:product_type>Developer Tools</g:product_type>
       <g:item_group_id>SF-1020</g:item_group_id>
       <g:gtin>1000000000020</g:gtin>
-      <g:mpn>MPN-1020</g:mpn>
+      <g:mpn>SF-MPN-1020</g:mpn>
     </item>
     <item>
       <g:id>SF-1021</g:id>
-      <g:title>Subscription Billing Engine 22</g:title>
-      <g:link>https://software-demo-platform.com/products/subscription-billing-engine-22</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1973.72 USD</g:price>
+      <g:title>Real-Time Payment Reconciliation</g:title>
+      <g:link>https://software-demo-platform.com/products/real-time-payment-reconciliation</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?compliance-software&amp;sig=21</g:image_link>
+      <g:price>499.00 USD</g:price>
       <g:brand>CoreLedger</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Enterprise-grade platform designed for scalable business operations and automation.]]></g:description>
-      <g:product_type>Fintech</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>Finance Automation</g:product_type>
       <g:item_group_id>SF-1021</g:item_group_id>
       <g:gtin>1000000000021</g:gtin>
-      <g:mpn>MPN-1021</g:mpn>
+      <g:mpn>SF-MPN-1021</g:mpn>
     </item>
     <item>
       <g:id>SF-1022</g:id>
-      <g:title>Customer Data Platform 23</g:title>
-      <g:link>https://software-demo-platform.com/products/customer-data-platform-23</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>443.73 USD</g:price>
-      <g:brand>CloudPeak</g:brand>
+      <g:title>Marketing Attribution Dashboard</g:title>
+      <g:link>https://software-demo-platform.com/products/marketing-attribution-dashboard</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?risk-management&amp;sig=22</g:image_link>
+      <g:price>279.00 USD</g:price>
+      <g:brand>MetricFlow</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
       <g:product_type>Marketing Technology</g:product_type>
       <g:item_group_id>SF-1022</g:item_group_id>
       <g:gtin>1000000000022</g:gtin>
-      <g:mpn>MPN-1022</g:mpn>
+      <g:mpn>SF-MPN-1022</g:mpn>
     </item>
     <item>
       <g:id>SF-1023</g:id>
-      <g:title>AI Customer Analytics Platform 24</g:title>
-      <g:link>https://software-demo-platform.com/products/ai-customer-analytics-platform-24</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>245.37 USD</g:price>
-      <g:brand>NovaCore</g:brand>
+      <g:title>Loan Application Workflow</g:title>
+      <g:link>https://software-demo-platform.com/products/loan-application-workflow</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?banking-technology&amp;sig=23</g:image_link>
+      <g:price>649.00 USD</g:price>
+      <g:brand>Fintrix</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>AI and Analytics</g:product_type>
+      <g:description><![CDATA[Scalable software solution for financial operations, customer data, and business intelligence.]]></g:description>
+      <g:product_type>Fintech</g:product_type>
       <g:item_group_id>SF-1023</g:item_group_id>
       <g:gtin>1000000000023</g:gtin>
-      <g:mpn>MPN-1023</g:mpn>
+      <g:mpn>SF-MPN-1023</g:mpn>
     </item>
     <item>
       <g:id>SF-1024</g:id>
-      <g:title>Business Intelligence Dashboard 25</g:title>
-      <g:link>https://software-demo-platform.com/products/business-intelligence-dashboard-25</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1569.16 USD</g:price>
-      <g:brand>Fintrix</g:brand>
+      <g:title>Enterprise Identity Manager</g:title>
+      <g:link>https://software-demo-platform.com/products/enterprise-identity-manager</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?automation-platform&amp;sig=24</g:image_link>
+      <g:price>599.00 USD</g:price>
+      <g:brand>Auralis</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>Analytics</g:product_type>
+      <g:description><![CDATA[API-first platform built for fast implementation, secure integrations, and measurable outcomes.]]></g:description>
+      <g:product_type>Cybersecurity</g:product_type>
       <g:item_group_id>SF-1024</g:item_group_id>
       <g:gtin>1000000000024</g:gtin>
-      <g:mpn>MPN-1024</g:mpn>
+      <g:mpn>SF-MPN-1024</g:mpn>
     </item>
     <item>
       <g:id>SF-1025</g:id>
-      <g:title>Subscription Billing Engine 26</g:title>
-      <g:link>https://software-demo-platform.com/products/subscription-billing-engine-26</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1691.54 USD</g:price>
-      <g:brand>MetricFlow</g:brand>
+      <g:title>Usage-Based Pricing Module</g:title>
+      <g:link>https://software-demo-platform.com/products/usage-based-pricing-module</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?developer-api&amp;sig=25</g:image_link>
+      <g:price>379.00 USD</g:price>
+      <g:brand>NovaCore</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>Fintech</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>Subscription Management</g:product_type>
       <g:item_group_id>SF-1025</g:item_group_id>
       <g:gtin>1000000000025</g:gtin>
-      <g:mpn>MPN-1025</g:mpn>
+      <g:mpn>SF-MPN-1025</g:mpn>
     </item>
     <item>
       <g:id>SF-1026</g:id>
-      <g:title>Fraud Detection API 27</g:title>
-      <g:link>https://software-demo-platform.com/products/fraud-detection-api-27</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1950.04 USD</g:price>
-      <g:brand>CoreLedger</g:brand>
+      <g:title>Financial Data Warehouse</g:title>
+      <g:link>https://software-demo-platform.com/products/financial-data-warehouse</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?cloud-infrastructure&amp;sig=26</g:image_link>
+      <g:price>999.00 USD</g:price>
+      <g:brand>CloudPeak</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>Cybersecurity</g:product_type>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
+      <g:product_type>Data Platform</g:product_type>
       <g:item_group_id>SF-1026</g:item_group_id>
       <g:gtin>1000000000026</g:gtin>
-      <g:mpn>MPN-1026</g:mpn>
+      <g:mpn>SF-MPN-1026</g:mpn>
     </item>
     <item>
       <g:id>SF-1027</g:id>
-      <g:title>Payroll Automation Suite 28</g:title>
-      <g:link>https://software-demo-platform.com/products/payroll-automation-suite-28</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>138.23 USD</g:price>
-      <g:brand>NovaCore</g:brand>
+      <g:title>Smart Contract Audit Tool</g:title>
+      <g:link>https://software-demo-platform.com/products/smart-contract-audit-tool</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?team-collaboration&amp;sig=27</g:image_link>
+      <g:price>849.00 USD</g:price>
+      <g:brand>DataPilot</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>HR Tech</g:product_type>
+      <g:description><![CDATA[Scalable software solution for financial operations, customer data, and business intelligence.]]></g:description>
+      <g:product_type>Compliance</g:product_type>
       <g:item_group_id>SF-1027</g:item_group_id>
       <g:gtin>1000000000027</g:gtin>
-      <g:mpn>MPN-1027</g:mpn>
+      <g:mpn>SF-MPN-1027</g:mpn>
     </item>
     <item>
       <g:id>SF-1028</g:id>
-      <g:title>Invoice OCR Processor 29</g:title>
-      <g:link>https://software-demo-platform.com/products/invoice-ocr-processor-29</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1245.79 USD</g:price>
-      <g:brand>NovaCore</g:brand>
+      <g:title>Virtual CFO Reporting Pack</g:title>
+      <g:link>https://software-demo-platform.com/products/virtual-cfo-reporting-pack</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?enterprise-software&amp;sig=28</g:image_link>
+      <g:price>459.00 USD</g:price>
+      <g:brand>CoreLedger</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Accounting</g:product_type>
+      <g:description><![CDATA[API-first platform built for fast implementation, secure integrations, and measurable outcomes.]]></g:description>
+      <g:product_type>Finance Automation</g:product_type>
       <g:item_group_id>SF-1028</g:item_group_id>
       <g:gtin>1000000000028</g:gtin>
-      <g:mpn>MPN-1028</g:mpn>
+      <g:mpn>SF-MPN-1028</g:mpn>
     </item>
     <item>
       <g:id>SF-1029</g:id>
-      <g:title>Business Intelligence Dashboard 30</g:title>
-      <g:link>https://software-demo-platform.com/products/business-intelligence-dashboard-30</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>667.47 USD</g:price>
+      <g:title>Customer Engagement Automation</g:title>
+      <g:link>https://software-demo-platform.com/products/customer-engagement-automation</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?analytics-chart&amp;sig=29</g:image_link>
+      <g:price>399.00 USD</g:price>
       <g:brand>MetricFlow</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>Analytics</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>Marketing Technology</g:product_type>
       <g:item_group_id>SF-1029</g:item_group_id>
       <g:gtin>1000000000029</g:gtin>
-      <g:mpn>MPN-1029</g:mpn>
+      <g:mpn>SF-MPN-1029</g:mpn>
     </item>
     <item>
       <g:id>SF-1030</g:id>
-      <g:title>Business Intelligence Dashboard 31</g:title>
-      <g:link>https://software-demo-platform.com/products/business-intelligence-dashboard-31</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>36.91 USD</g:price>
-      <g:brand>Fintrix</g:brand>
+      <g:title>Card Issuing Management API</g:title>
+      <g:link>https://software-demo-platform.com/products/card-issuing-management-api</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?secure-login&amp;sig=30</g:image_link>
+      <g:price>1199.00 USD</g:price>
+      <g:brand>Paynetic</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Analytics</g:product_type>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
+      <g:product_type>Payments</g:product_type>
       <g:item_group_id>SF-1030</g:item_group_id>
       <g:gtin>1000000000030</g:gtin>
-      <g:mpn>MPN-1030</g:mpn>
+      <g:mpn>SF-MPN-1030</g:mpn>
     </item>
     <item>
       <g:id>SF-1031</g:id>
-      <g:title>Subscription Billing Engine 32</g:title>
-      <g:link>https://software-demo-platform.com/products/subscription-billing-engine-32</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1293.73 USD</g:price>
-      <g:brand>Paynetic</g:brand>
+      <g:title>Bank Statement Parser</g:title>
+      <g:link>https://software-demo-platform.com/products/bank-statement-parser</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?software-interface&amp;sig=31</g:image_link>
+      <g:price>149.00 USD</g:price>
+      <g:brand>DataPilot</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Cloud-native solution optimized for modern finance and operational workflows.]]></g:description>
-      <g:product_type>Fintech</g:product_type>
+      <g:description><![CDATA[Scalable software solution for financial operations, customer data, and business intelligence.]]></g:description>
+      <g:product_type>Accounting</g:product_type>
       <g:item_group_id>SF-1031</g:item_group_id>
       <g:gtin>1000000000031</g:gtin>
-      <g:mpn>MPN-1031</g:mpn>
+      <g:mpn>SF-MPN-1031</g:mpn>
     </item>
     <item>
       <g:id>SF-1032</g:id>
-      <g:title>Fraud Detection API 33</g:title>
-      <g:link>https://software-demo-platform.com/products/fraud-detection-api-33</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>140.32 USD</g:price>
-      <g:brand>CloudPeak</g:brand>
+      <g:title>SaaS Renewal Management</g:title>
+      <g:link>https://software-demo-platform.com/products/saas-renewal-management</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?financial-technology&amp;sig=32</g:image_link>
+      <g:price>249.00 USD</g:price>
+      <g:brand>NovaCore</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>Cybersecurity</g:product_type>
+      <g:description><![CDATA[API-first platform built for fast implementation, secure integrations, and measurable outcomes.]]></g:description>
+      <g:product_type>Subscription Management</g:product_type>
       <g:item_group_id>SF-1032</g:item_group_id>
       <g:gtin>1000000000032</g:gtin>
-      <g:mpn>MPN-1032</g:mpn>
+      <g:mpn>SF-MPN-1032</g:mpn>
     </item>
     <item>
       <g:id>SF-1033</g:id>
-      <g:title>Subscription Billing Engine 34</g:title>
-      <g:link>https://software-demo-platform.com/products/subscription-billing-engine-34</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>201.99 USD</g:price>
-      <g:brand>DataPilot</g:brand>
+      <g:title>Merchant Onboarding Portal</g:title>
+      <g:link>https://software-demo-platform.com/products/merchant-onboarding-portal</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?startup-dashboard&amp;sig=33</g:image_link>
+      <g:price>529.00 USD</g:price>
+      <g:brand>Paynetic</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Fintech</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>Payments</g:product_type>
       <g:item_group_id>SF-1033</g:item_group_id>
       <g:gtin>1000000000033</g:gtin>
-      <g:mpn>MPN-1033</g:mpn>
+      <g:mpn>SF-MPN-1033</g:mpn>
     </item>
     <item>
       <g:id>SF-1034</g:id>
-      <g:title>Invoice OCR Processor 35</g:title>
-      <g:link>https://software-demo-platform.com/products/invoice-ocr-processor-35</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1411.89 USD</g:price>
-      <g:brand>CoreLedger</g:brand>
+      <g:title>Audit Trail Compliance Suite</g:title>
+      <g:link>https://software-demo-platform.com/products/audit-trail-compliance-suite</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?digital-transformation&amp;sig=34</g:image_link>
+      <g:price>689.00 USD</g:price>
+      <g:brand>Auralis</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>Accounting</g:product_type>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
+      <g:product_type>Compliance</g:product_type>
       <g:item_group_id>SF-1034</g:item_group_id>
       <g:gtin>1000000000034</g:gtin>
-      <g:mpn>MPN-1034</g:mpn>
+      <g:mpn>SF-MPN-1034</g:mpn>
     </item>
     <item>
       <g:id>SF-1035</g:id>
-      <g:title>Subscription Billing Engine 36</g:title>
-      <g:link>https://software-demo-platform.com/products/subscription-billing-engine-36</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1133.58 USD</g:price>
+      <g:title>Cash Flow Planning Dashboard</g:title>
+      <g:link>https://software-demo-platform.com/products/cash-flow-planning-dashboard</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?workflow-automation&amp;sig=35</g:image_link>
+      <g:price>319.00 USD</g:price>
       <g:brand>CoreLedger</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Enterprise-grade platform designed for scalable business operations and automation.]]></g:description>
-      <g:product_type>Fintech</g:product_type>
+      <g:description><![CDATA[Scalable software solution for financial operations, customer data, and business intelligence.]]></g:description>
+      <g:product_type>Analytics</g:product_type>
       <g:item_group_id>SF-1035</g:item_group_id>
       <g:gtin>1000000000035</g:gtin>
-      <g:mpn>MPN-1035</g:mpn>
+      <g:mpn>SF-MPN-1035</g:mpn>
     </item>
     <item>
       <g:id>SF-1036</g:id>
-      <g:title>Payment Gateway API 37</g:title>
-      <g:link>https://software-demo-platform.com/products/payment-gateway-api-37</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>714.69 USD</g:price>
-      <g:brand>Paynetic</g:brand>
+      <g:title>AI Lead Scoring for SaaS</g:title>
+      <g:link>https://software-demo-platform.com/products/ai-lead-scoring-for-saas</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?tax-software&amp;sig=36</g:image_link>
+      <g:price>229.00 USD</g:price>
+      <g:brand>NovaCore</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Enterprise-grade platform designed for scalable business operations and automation.]]></g:description>
-      <g:product_type>Payments</g:product_type>
+      <g:description><![CDATA[API-first platform built for fast implementation, secure integrations, and measurable outcomes.]]></g:description>
+      <g:product_type>AI and Analytics</g:product_type>
       <g:item_group_id>SF-1036</g:item_group_id>
       <g:gtin>1000000000036</g:gtin>
-      <g:mpn>MPN-1036</g:mpn>
+      <g:mpn>SF-MPN-1036</g:mpn>
     </item>
     <item>
       <g:id>SF-1037</g:id>
-      <g:title>Subscription Billing Engine 38</g:title>
-      <g:link>https://software-demo-platform.com/products/subscription-billing-engine-38</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>856.77 USD</g:price>
-      <g:brand>NovaCore</g:brand>
+      <g:title>Cloud Finance Data Sync</g:title>
+      <g:link>https://software-demo-platform.com/products/cloud-finance-data-sync</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?expense-management&amp;sig=37</g:image_link>
+      <g:price>189.00 USD</g:price>
+      <g:brand>CloudPeak</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Fintech</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>Enterprise Software</g:product_type>
       <g:item_group_id>SF-1037</g:item_group_id>
       <g:gtin>1000000000037</g:gtin>
-      <g:mpn>MPN-1037</g:mpn>
+      <g:mpn>SF-MPN-1037</g:mpn>
     </item>
     <item>
       <g:id>SF-1038</g:id>
-      <g:title>Customer Data Platform 39</g:title>
-      <g:link>https://software-demo-platform.com/products/customer-data-platform-39</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1313.98 USD</g:price>
-      <g:brand>NovaCore</g:brand>
+      <g:title>Automated Dunning Workflows</g:title>
+      <g:link>https://software-demo-platform.com/products/automated-dunning-workflows</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?sales-dashboard&amp;sig=38</g:image_link>
+      <g:price>209.00 USD</g:price>
+      <g:brand>Fintrix</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>Marketing Technology</g:product_type>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
+      <g:product_type>Subscription Management</g:product_type>
       <g:item_group_id>SF-1038</g:item_group_id>
       <g:gtin>1000000000038</g:gtin>
-      <g:mpn>MPN-1038</g:mpn>
+      <g:mpn>SF-MPN-1038</g:mpn>
     </item>
     <item>
       <g:id>SF-1039</g:id>
-      <g:title>Customer Data Platform 40</g:title>
-      <g:link>https://software-demo-platform.com/products/customer-data-platform-40</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>899.04 USD</g:price>
-      <g:brand>CloudPeak</g:brand>
+      <g:title>Payment Link Generator</g:title>
+      <g:link>https://software-demo-platform.com/products/payment-link-generator</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?customer-support-software&amp;sig=39</g:image_link>
+      <g:price>79.00 USD</g:price>
+      <g:brand>Paynetic</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Marketing Technology</g:product_type>
+      <g:description><![CDATA[Scalable software solution for financial operations, customer data, and business intelligence.]]></g:description>
+      <g:product_type>Payments</g:product_type>
       <g:item_group_id>SF-1039</g:item_group_id>
       <g:gtin>1000000000039</g:gtin>
-      <g:mpn>MPN-1039</g:mpn>
+      <g:mpn>SF-MPN-1039</g:mpn>
     </item>
     <item>
       <g:id>SF-1040</g:id>
-      <g:title>Payroll Automation Suite 41</g:title>
-      <g:link>https://software-demo-platform.com/products/payroll-automation-suite-41</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1374.35 USD</g:price>
-      <g:brand>CloudPeak</g:brand>
+      <g:title>Multi-Currency Ledger</g:title>
+      <g:link>https://software-demo-platform.com/products/multi-currency-ledger</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?ai-assistant&amp;sig=40</g:image_link>
+      <g:price>579.00 USD</g:price>
+      <g:brand>CoreLedger</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>HR Tech</g:product_type>
+      <g:description><![CDATA[API-first platform built for fast implementation, secure integrations, and measurable outcomes.]]></g:description>
+      <g:product_type>Accounting</g:product_type>
       <g:item_group_id>SF-1040</g:item_group_id>
       <g:gtin>1000000000040</g:gtin>
-      <g:mpn>MPN-1040</g:mpn>
+      <g:mpn>SF-MPN-1040</g:mpn>
     </item>
     <item>
       <g:id>SF-1041</g:id>
-      <g:title>Invoice OCR Processor 42</g:title>
-      <g:link>https://software-demo-platform.com/products/invoice-ocr-processor-42</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>646.51 USD</g:price>
-      <g:brand>Paynetic</g:brand>
+      <g:title>Security Event Insights</g:title>
+      <g:link>https://software-demo-platform.com/products/security-event-insights</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?marketing-automation&amp;sig=41</g:image_link>
+      <g:price>429.00 USD</g:price>
+      <g:brand>Auralis</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>Accounting</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>Cybersecurity</g:product_type>
       <g:item_group_id>SF-1041</g:item_group_id>
       <g:gtin>1000000000041</g:gtin>
-      <g:mpn>MPN-1041</g:mpn>
+      <g:mpn>SF-MPN-1041</g:mpn>
     </item>
     <item>
       <g:id>SF-1042</g:id>
-      <g:title>Subscription Billing Engine 43</g:title>
-      <g:link>https://software-demo-platform.com/products/subscription-billing-engine-43</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>369.68 USD</g:price>
-      <g:brand>CloudPeak</g:brand>
+      <g:title>Executive KPI Portal</g:title>
+      <g:link>https://software-demo-platform.com/products/executive-kpi-portal</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?data-visualization&amp;sig=42</g:image_link>
+      <g:price>699.00 USD</g:price>
+      <g:brand>MetricFlow</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Fintech</g:product_type>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
+      <g:product_type>Business Intelligence</g:product_type>
       <g:item_group_id>SF-1042</g:item_group_id>
       <g:gtin>1000000000042</g:gtin>
-      <g:mpn>MPN-1042</g:mpn>
+      <g:mpn>SF-MPN-1042</g:mpn>
     </item>
     <item>
       <g:id>SF-1043</g:id>
-      <g:title>Cloud ERP Connector 44</g:title>
-      <g:link>https://software-demo-platform.com/products/cloud-erp-connector-44</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>855.34 USD</g:price>
-      <g:brand>DataPilot</g:brand>
+      <g:title>Embedded Finance Widget</g:title>
+      <g:link>https://software-demo-platform.com/products/embedded-finance-widget</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?online-payments&amp;sig=43</g:image_link>
+      <g:price>899.00 USD</g:price>
+      <g:brand>Fintrix</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Cloud-native solution optimized for modern finance and operational workflows.]]></g:description>
-      <g:product_type>Enterprise Software</g:product_type>
+      <g:description><![CDATA[Scalable software solution for financial operations, customer data, and business intelligence.]]></g:description>
+      <g:product_type>Fintech</g:product_type>
       <g:item_group_id>SF-1043</g:item_group_id>
       <g:gtin>1000000000043</g:gtin>
-      <g:mpn>MPN-1043</g:mpn>
+      <g:mpn>SF-MPN-1043</g:mpn>
     </item>
     <item>
       <g:id>SF-1044</g:id>
-      <g:title>Fraud Detection API 45</g:title>
-      <g:link>https://software-demo-platform.com/products/fraud-detection-api-45</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>70.29 USD</g:price>
-      <g:brand>Fintrix</g:brand>
+      <g:title>Data Quality Monitor</g:title>
+      <g:link>https://software-demo-platform.com/products/data-quality-monitor</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?open-banking&amp;sig=44</g:image_link>
+      <g:price>299.00 USD</g:price>
+      <g:brand>DataPilot</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Secure and scalable SaaS platform with advanced analytics and reporting.]]></g:description>
-      <g:product_type>Cybersecurity</g:product_type>
+      <g:description><![CDATA[API-first platform built for fast implementation, secure integrations, and measurable outcomes.]]></g:description>
+      <g:product_type>Data Platform</g:product_type>
       <g:item_group_id>SF-1044</g:item_group_id>
       <g:gtin>1000000000044</g:gtin>
-      <g:mpn>MPN-1044</g:mpn>
+      <g:mpn>SF-MPN-1044</g:mpn>
     </item>
     <item>
       <g:id>SF-1045</g:id>
-      <g:title>Payment Gateway API 46</g:title>
-      <g:link>https://software-demo-platform.com/products/payment-gateway-api-46</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>284.68 USD</g:price>
-      <g:brand>NovaCore</g:brand>
+      <g:title>Partner API Marketplace</g:title>
+      <g:link>https://software-demo-platform.com/products/partner-api-marketplace</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?kyc-verification&amp;sig=45</g:image_link>
+      <g:price>749.00 USD</g:price>
+      <g:brand>CloudPeak</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Payments</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>Developer Tools</g:product_type>
       <g:item_group_id>SF-1045</g:item_group_id>
       <g:gtin>1000000000045</g:gtin>
-      <g:mpn>MPN-1045</g:mpn>
+      <g:mpn>SF-MPN-1045</g:mpn>
     </item>
     <item>
       <g:id>SF-1046</g:id>
-      <g:title>Business Intelligence Dashboard 47</g:title>
-      <g:link>https://software-demo-platform.com/products/business-intelligence-dashboard-47</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1312.58 USD</g:price>
+      <g:title>Customer Churn Prediction</g:title>
+      <g:link>https://software-demo-platform.com/products/customer-churn-prediction</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?document-automation&amp;sig=46</g:image_link>
+      <g:price>349.00 USD</g:price>
       <g:brand>NovaCore</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Analytics</g:product_type>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
+      <g:product_type>AI and Analytics</g:product_type>
       <g:item_group_id>SF-1046</g:item_group_id>
       <g:gtin>1000000000046</g:gtin>
-      <g:mpn>MPN-1046</g:mpn>
+      <g:mpn>SF-MPN-1046</g:mpn>
     </item>
     <item>
       <g:id>SF-1047</g:id>
-      <g:title>Fraud Detection API 48</g:title>
-      <g:link>https://software-demo-platform.com/products/fraud-detection-api-48</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1116.19 USD</g:price>
-      <g:brand>Fintrix</g:brand>
+      <g:title>Regulatory Reporting Hub</g:title>
+      <g:link>https://software-demo-platform.com/products/regulatory-reporting-hub</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?ledger-software&amp;sig=47</g:image_link>
+      <g:price>999.00 USD</g:price>
+      <g:brand>Auralis</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Cybersecurity</g:product_type>
+      <g:description><![CDATA[Scalable software solution for financial operations, customer data, and business intelligence.]]></g:description>
+      <g:product_type>Compliance</g:product_type>
       <g:item_group_id>SF-1047</g:item_group_id>
       <g:gtin>1000000000047</g:gtin>
-      <g:mpn>MPN-1047</g:mpn>
+      <g:mpn>SF-MPN-1047</g:mpn>
     </item>
     <item>
       <g:id>SF-1048</g:id>
-      <g:title>Invoice OCR Processor 49</g:title>
-      <g:link>https://software-demo-platform.com/products/invoice-ocr-processor-49</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1940.11 USD</g:price>
-      <g:brand>DataPilot</g:brand>
+      <g:title>Procurement Spend Analytics</g:title>
+      <g:link>https://software-demo-platform.com/products/procurement-spend-analytics</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?payment-api&amp;sig=48</g:image_link>
+      <g:price>269.00 USD</g:price>
+      <g:brand>MetricFlow</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Integrated software suite supporting automation, compliance, and productivity.]]></g:description>
-      <g:product_type>Accounting</g:product_type>
+      <g:description><![CDATA[API-first platform built for fast implementation, secure integrations, and measurable outcomes.]]></g:description>
+      <g:product_type>Finance Automation</g:product_type>
       <g:item_group_id>SF-1048</g:item_group_id>
       <g:gtin>1000000000048</g:gtin>
-      <g:mpn>MPN-1048</g:mpn>
+      <g:mpn>SF-MPN-1048</g:mpn>
     </item>
     <item>
       <g:id>SF-1049</g:id>
-      <g:title>Business Intelligence Dashboard 50</g:title>
-      <g:link>https://software-demo-platform.com/products/business-intelligence-dashboard-50</g:link>
-      <g:image_link>https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800</g:image_link>
-      <g:price>1899.37 USD</g:price>
-      <g:brand>CoreLedger</g:brand>
+      <g:title>No-Code Workflow Builder</g:title>
+      <g:link>https://software-demo-platform.com/products/no-code-workflow-builder</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?finance-dashboard&amp;sig=49</g:image_link>
+      <g:price>399.00 USD</g:price>
+      <g:brand>CloudPeak</g:brand>
       <g:availability>in_stock</g:availability>
-      <g:description><![CDATA[Enterprise-grade platform designed for scalable business operations and automation.]]></g:description>
-      <g:product_type>Analytics</g:product_type>
+      <g:description><![CDATA[Cloud-native SaaS product designed for modern finance, operations, and growth teams.]]></g:description>
+      <g:product_type>Enterprise Software</g:product_type>
       <g:item_group_id>SF-1049</g:item_group_id>
       <g:gtin>1000000000049</g:gtin>
-      <g:mpn>MPN-1049</g:mpn>
+      <g:mpn>SF-MPN-1049</g:mpn>
+    </item>
+    <item>
+      <g:id>SF-1050</g:id>
+      <g:title>Treasury Operations Console</g:title>
+      <g:link>https://software-demo-platform.com/products/treasury-operations-console</g:link>
+      <g:image_link>https://source.unsplash.com/900x900/?cloud-crm&amp;sig=50</g:image_link>
+      <g:price>1199.00 USD</g:price>
+      <g:brand>CoreLedger</g:brand>
+      <g:availability>in_stock</g:availability>
+      <g:description><![CDATA[Enterprise-grade platform supporting secure automation, reporting, and workflow optimization.]]></g:description>
+      <g:product_type>Fintech</g:product_type>
+      <g:item_group_id>SF-1050</g:item_group_id>
+      <g:gtin>1000000000050</g:gtin>
+      <g:mpn>SF-MPN-1050</g:mpn>
     </item>
   </channel>
 </rss>
